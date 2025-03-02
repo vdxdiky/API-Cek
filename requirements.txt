@@ -4,3 +4,4 @@ beautifulsoup4
 fake_useragent
 flask-restx
 flask-cors
+waitress
